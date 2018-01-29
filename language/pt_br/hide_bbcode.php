@@ -43,9 +43,9 @@ if (empty($lang) || !is_array($lang))
  * @TODO:Change this to uppercase things.
  */ 
 $lang = array_merge($lang, array(
-	'HIDEBB_HIDDEN_MESSAGE'			=> 'Esta mensagem foi oculta',
-	'HIDEBB_MESSAGE_UNHIDE'			=> 'HIDE: DESLIGADO',
-	'HIDEBB_MESSAGE_HIDDEN'			=> 'HIDE: LIGADO',
+	'HIDEBB_HIDDEN_MESSAGE'			=> 'Esta mensagem foi escondida',
+	'HIDEBB_MESSAGE_UNHIDE'			=> 'OCULTAR: DESLIGADO',
+	'HIDEBB_MESSAGE_HIDDEN'			=> 'OCULTAR: LIGADO',
 	'HIDEBB_TFP_NO_DELETE'			=> 'A exclusão de agradecimentos está desativada para este post, pois existe um [hide] BBCode presente no post.',
 
 	'HIDEBB_HIDE_HELPLINE_REPLY'			=> 'Ocultar de pessoas que não postaram neste tópico: [hide]texto[/hide]',
