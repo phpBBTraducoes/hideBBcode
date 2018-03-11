@@ -49,8 +49,8 @@ $lang = array_merge($lang, array(
 	'HIDEBB_TFP_NO_DELETE'			=> 'A exclusão de agradecimentos está desativada para este post, pois existe um [hide] BBCode presente no post.',
 
 	'HIDEBB_HIDE_HELPLINE_REPLY'			=> 'Ocultar de pessoas que não postaram neste tópico: [hide]texto[/hide]',
-	'HIDEBB_HIDE_HELPLINE_THANK'			=> 'Ocultar de pessoas que não agradeceram neste tópico: [hide]text[/hide]',
-	'HIDEBB_HIDE_HELPLINE_REPLY_THANK'		=> 'Ocultar de pessoas que não postaram neste tópico e não agradeceram este post: [hide]text[/hide]',
+	'HIDEBB_HIDE_HELPLINE_THANK'			=> 'Ocultar de pessoas que não agradeceram neste tópico: [hide]texto[/hide]',
+	'HIDEBB_HIDE_HELPLINE_REPLY_THANK'		=> 'Ocultar de pessoas que não postaram neste tópico e não agradeceram este post: [hide]texto[/hide]',
 
 	'HIDEBB_MESSAGE_HIDDEN_DESCRIPTION_REPLY'			=> 'Você precisa responder a este tópico antes de poder visualizar a mensagem oculta',
 	'HIDEBB_MESSAGE_HIDDEN_DESCRIPTION_THANK'			=> 'Você precisa agradecer esta postagem antes de poder visualizar a mensagem oculta',
